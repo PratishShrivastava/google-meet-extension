@@ -2,8 +2,8 @@
     "name": "google meet open",
     "description": "Open meet in one click. Open Source.",
     "version": "0.0.2",
-    "manifest_version": 2,
-    "browser_action": {
+    "manifest_version": 3,
+    "action": {
         "default_popup": "pop.html",
         "default_icon": "logo.png"
   },
