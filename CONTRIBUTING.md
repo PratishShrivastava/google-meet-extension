@@ -6,7 +6,7 @@ Thank you so much for contributing to [google-meet-extension]! Please add your n
 
 By contributing to this project you agree to:
 
-1. Abide by Swiftransact's [Code of Conduct](https://github.com/PratishShrivastava/google-meet-extension/blob/master/CODE_OF_CONDUCT.md).
+1. Abide by google meet extension [Code of Conduct](https://github.com/PratishShrivastava/google-meet-extension/blob/master/CODE_OF_CONDUCT.md).
 2. Assign the copyright of your code contributions to the authours and maintainers of google-meet-extension, who commits to acting as a good steward for the codebase for public benefit.
 
 ## 💥 How to Contribute
