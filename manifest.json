@@ -4,11 +4,11 @@
     "version": "0.0.2",
     "manifest_version": 3,
     "action": {
-        "default_popup": "pop.html",
-        "default_icon": "logo.png"
+        "default_popup": "Public/pop.html",
+        "default_icon": "logo/logo.png"
   },
   "icons":{
-      "128":"logo.png" 
+      "128":"logo/logo.png" 
   },
   "permissions": ["activeTab"]
 }
